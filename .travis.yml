@@ -8,4 +8,4 @@ deploy:
     secure: YgiAejMWuc7Pwunje/WHrLFs6bGTsQj8rGAunVL+sh3NsoDT82TeFB+8yCPpcLmTq9h8ziruZo3AtsKYpHuWaoQ+sToDIyJk6qXqOTTwGdfSLMuVrWvHl9/EgWQZ8s6D5TeCPwYRTJpmAbMI5vP6OuEwpZ5T3zhR5zYUZ809rsQAhmaaTugdpcXqUQe2ZhGNrtqvnFsfI7RCs/5D/prCva0ADFV+lX87zTDT7G0ViwH7bbVRB6mIH7GJhw/AK1h7uwUgaxSTUoJI47qB1JNLqh3ivgQj977MOUvnLKZGnu24Z+q+cpeLce/tbFYP/BShm8j0LlBZibjPRns5oxEp60DBKjsLkKeZbtDRljkFsocgIf3TCkwQBKGi/ytPInCVqPArmsd+s+c5yG646xFXt7FXIzUpU0FVbRiGkuRgE3UNb4GNXovu/tC8h87Z8j28u8nKX4CPkZtpb+rswDTg1Lk86e1b0fYl7j2HZHYcNhjMdMa1YAe/o3JoW8mWtP6M4HFr04ZizsPeUWG48F6tjjKp2C0zgd+wsn9lMaBjRvFojzgJXGB55OCt1Wc1+IWCGtNS4sIwXdjtvaAArdfTduq2N+HXwlGtMKuIdoEr6rMtJkUFmoWyPiR1v6I6zd+4st6yMwLsujUfLognxurWMhaMIELLRIynhRhy+kOdB+0=
   app: jeff-restaurants-app-mongoose
   on:
-    repo: thinkful-ei23/Jeff-restaurants-app-mongoose
+    repo: thinkful-ei23/jeff-restaurants-app-mongoose
