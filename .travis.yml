@@ -9,4 +9,3 @@ deploy:
   app: jeff-restaurants-app-mongoose
   on:
     repo: thinkful-ei23/Jeff-node-restaurants-app-mongoose
-    branch: feature/with-tests
